@@ -1,0 +1,93 @@
+# Professional Marketing Agency Website Development Prompt for Replit
+
+## Project Overview
+Create a modern, high-performance website for REGC Online, a digital marketing agency specializing in brand development and lead conversion. The website should be built using Gatsby (React) with TailwindCSS for styling, featuring a clean, professional design inspired by stripe.com's aesthetic.
+
+## Design Requirements
+- **Color Scheme**: Modern, professional palette similar to stripe.com (deep blues, bright accents, clean neutrals)
+- **Typography**: Josefin Sans as primary font (with system sans-serif fallback)
+- **Layout**: Clean, spacious, with clear visual hierarchy
+- **Responsiveness**: Fully responsive across all device sizes
+
+## Core Pages & Features
+
+### 1. Homepage
+- Hero section with value proposition: "Helping businesses establish strong brand presence and convert leads into paying customers"
+- Brief introduction (2-3 sentences) about our mission
+- Services overview (cards with icons)
+- Featured work section (with screenshots and live links)
+- Client testimonials
+- Call-to-action section
+
+### 2. Services Page
+Detailed sections for each service:
+- High-Converting Websites
+- Social Media Management
+- Meta & Google Ads (mention AI optimization)
+- Digital Products (logos, posters, etc.)
+- Include service-specific CTAs
+
+### 3. Process Page
+Professional workflow visualization:
+1. Discovery Call
+2. Strategy Development
+3. Implementation
+4. Optimization & Reporting
+5. Ongoing Support
+(Include timeline estimates for each phase)
+
+### 4. Work Portfolio
+- Website case studies (screenshots + live links)
+- Social media campaign examples
+- Ad performance metrics (where applicable)
+- Digital product samples
+
+### 5. Blog Page
+- Clean, readable layout
+- Category filtering
+- Featured posts section
+- Newsletter signup option
+
+### 6. Contact Page
+- Contact information:
+  - Emails: hello@regconline.co.za (inquiries), petrust@regconline.co.za (sales)
+  - WhatsApp: 0640826855
+  - Social media links (@regconline on all platforms except Facebook @regconline1)
+- **Interactive Service Request Form**:
+  - Service selection dropdown
+  - Budget range selector
+  - Project details field
+  - File upload for reference materials
+- **Budget Calculator Popup**:
+  - Service selector with pricing options
+  - Add-on services
+  - Estimated total display
+  - Option to submit calculated budget
+
+## Technical Requirements
+- Gatsby.js (React) framework
+- TailwindCSS for styling
+- Responsive design (mobile-first approach)
+- Fast loading times (optimized images, lazy loading)
+- SEO-optimized structure
+- Form handling with Netlify or similar service
+- Blog functionality with Markdown or CMS integration
+
+## Additional Features
+- Dark mode toggle
+- Social media integration
+- Performance analytics setup
+- Cookie consent banner for GDPR compliance
+
+## Content Requirements
+- Professional, benefit-focused copy
+- Clear CTAs throughout
+- Value proposition emphasized
+- Trust indicators (testimonials, case studies)
+
+## Delivery
+- Complete source code
+- Deployment instructions
+- Documentation for content updates
+
+The website should convey professionalism, technical expertise, and results-driven marketing focus while maintaining excellent user experience and clear pathways to conversion.
